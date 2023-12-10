@@ -4,9 +4,9 @@ Prerequisites:
 
 Before running the application, ensure you have the following software installed on your machine:
 
-Node.js: Download and Install Node.js (https://nodejs.org/en)
+1) Node.js: Download and Install Node.js (https://nodejs.org/en)
 
-npm: Install npm (https://docs.npmjs.com/getting-started)
+2) npm: Install npm (https://docs.npmjs.com/getting-started)
 
 Installation:
 
