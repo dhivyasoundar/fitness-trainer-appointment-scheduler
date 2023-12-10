@@ -54,3 +54,5 @@ Here below are the screenshot of the website:
 
 UI for Fitness Trainer Appointment Scheduling website: 
 
+![image](https://github.com/dhivyasoundar/fitness-trainer-appointment-scheduler/assets/39046735/a29920b2-f368-4dc4-ba94-530851af3a2a)
+
