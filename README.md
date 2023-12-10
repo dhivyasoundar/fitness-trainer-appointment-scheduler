@@ -12,7 +12,7 @@ Installation:
 
 1) Clone the repository:
     
-            git clone https://github.com/your-username/fitness-trainer-appointment-scheduler.git
+            git clone https://github.com/dhivyasoundar/fitness-trainer-appointment-scheduler.git
             
 2) Navigate to the project directory:
     
