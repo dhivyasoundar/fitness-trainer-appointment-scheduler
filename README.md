@@ -1,6 +1,7 @@
 # fitness-trainer-appointment-scheduler
 
 Prerequisites:
+
 Before running the application, ensure you have the following software installed on your machine:
 
     Node.js: Download and Install Node.js
@@ -38,5 +39,6 @@ Technologies Used:
     •	Bootstrap (for styling)
 
 Here below are the screenshot of the website:
+
 UI for Fitness Trainer Appointment Scheduling website: 
 
