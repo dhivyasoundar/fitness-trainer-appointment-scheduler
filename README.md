@@ -4,8 +4,9 @@ Prerequisites:
 
 Before running the application, ensure you have the following software installed on your machine:
 
-Node.js: Download and Install Node.js
-npm: Install npm
+Node.js: Download and Install Node.js (https://nodejs.org/en)
+
+npm: Install npm (https://docs.npmjs.com/getting-started)
 
 Installation:
 
@@ -34,12 +35,15 @@ Usage:
 Features:
 
 Client Management:
-        •	Add, edit, and delete client details.
-        •	View a list of clients with their basic information.
+
+1) Add, edit, and delete client details.
+2) View a list of clients with their basic information.
+
 Appointment Scheduling:
-        •	Schedule appointments for clients.
-        •	View a calendar with scheduled appointments.
-        •	Edit or cancel existing appointments.
+
+1) Schedule appointments for clients.
+2) View a calendar with scheduled appointments.
+3) Edit or cancel existing appointments.
 
 Technologies Used:
 
